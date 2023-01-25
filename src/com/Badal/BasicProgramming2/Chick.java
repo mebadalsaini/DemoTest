@@ -10,7 +10,7 @@ public class Chick {
     }
     private String name = "Fluffy" ;
     {
-        System.out.println("Setting field");
+        System.out.println("Set field");
         System.out.println(name);
     }
 
